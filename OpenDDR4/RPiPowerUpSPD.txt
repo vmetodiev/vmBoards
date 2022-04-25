@@ -1,0 +1,7 @@
+https://xdevs.com/article/ddr4s/
+
+gpio -g mode 16 out
+gpio -g write 16 1
+
+cd /home/pi/ddr4s/fw/Pi
+ls /tmp/40G057A.bin
